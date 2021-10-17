@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rxshhh
+- 👀 I’m interested in Java and python
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate in different projects to expand my horizon
