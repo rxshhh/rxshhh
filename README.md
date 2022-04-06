@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rxshhh!
-- 🌱 I’m currently learning Java
-- 💞️ I’m interested in becoming a Java Software Developer
+- 🌱 I’m currently learning C#.
+- 💞️ I’m interested in becoming a .NET Developer.
